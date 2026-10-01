@@ -1,4 +1,4 @@
 # Labs
-Labs to practical pentests
+Домашние лаборатории для практики
 
-## Labs
+## Содержимое
